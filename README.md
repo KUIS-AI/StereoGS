@@ -1,1 +1,1 @@
-# StereoGS
+# rdogaussian.github.io
